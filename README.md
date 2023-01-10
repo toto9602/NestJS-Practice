@@ -24,7 +24,11 @@
 
 ## Description
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+### Issue #1
+- @NestJS/Swagger Plugin 적용하기
+
+### Issue #3
+- Interceptor와 Decorator로 TypeORM 트랜잭션 로직 분리하기
 
 ## Installation
 
