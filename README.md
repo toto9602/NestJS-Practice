@@ -28,7 +28,7 @@
 - @NestJS/Swagger Plugin 적용하기
 
 ### Issue #3
-- Interceptor와 Decorator로 TypeORM 트랜잭션 로직 분리하기
+- StandAlone 앱에서 Decorator로 TypeORM 트랜잭션 로직 분리하기
 
 ## Installation
 
