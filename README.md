@@ -24,7 +24,7 @@
 
 ## Description
 
-### Issue #1
+### Issue #1 => PR[https://github.com/toto9602/NestJS-Practice/pull/2]
 - @NestJS/Swagger Plugin 적용하기
 
 ### Issue #3
