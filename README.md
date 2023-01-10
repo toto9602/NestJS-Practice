@@ -24,8 +24,8 @@
 
 ## Description
 
-### Issue #1 => PR[https://github.com/toto9602/NestJS-Practice/pull/2]
+### Issue #1 -> PR[https://github.com/toto9602/NestJS-Practice/pull/2]
 - @NestJS/Swagger Plugin 적용하기
 
-### Issue #3
+### Issue #3 -> 진행 중
 - StandAlone 앱에서 Decorator로 TypeORM 트랜잭션 로직 분리하기
