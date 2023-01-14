@@ -28,4 +28,4 @@
 - @NestJS/Swagger Plugin 적용하기
 
 ### Issue #3 -> 진행 중
-- StandAlone 앱에서 Decorator로 TypeORM 트랜잭션 로직 분리하기
+- `Nest-Commander`로 standAlone 앱 만들어 보기
