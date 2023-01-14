@@ -24,54 +24,8 @@
 
 ## Description
 
-### Issue #1
+### Issue #1 -> PR[https://github.com/toto9602/NestJS-Practice/pull/2]
 - @NestJS/Swagger Plugin 적용하기
 
-### Issue #3
-- Interceptor와 Decorator로 TypeORM 트랜잭션 로직 분리하기
-
-## Installation
-
-```bash
-$ npm install
-```
-
-## Running the app
-
-```bash
-# development
-$ npm run start
-
-# watch mode
-$ npm run start:dev
-
-# production mode
-$ npm run start:prod
-```
-
-## Test
-
-```bash
-# unit tests
-$ npm run test
-
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
-```
-
-## Support
-
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
-
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
+### Issue #3 -> 진행 중
+- StandAlone 앱에서 Decorator로 TypeORM 트랜잭션 로직 분리하기
