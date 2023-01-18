@@ -27,5 +27,8 @@
 ### Issue #1 -> PR[https://github.com/toto9602/NestJS-Practice/pull/2]
 - @NestJS/Swagger Plugin 적용하기
 
-### Issue #3 -> 진행 중
+### Issue #3 -> PR[https://github.com/toto9602/NestJS-Practice/pull/4]
 - `Nest-Commander`로 standAlone 앱 만들어 보기
+
+### Issue #5 -> 진행 중
+- NestJS의 `HttpModule`, `HttpService` 사용해 보기 (RxJS?)
