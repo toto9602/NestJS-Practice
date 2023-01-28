@@ -13,8 +13,8 @@
 ### Issue #3 -> PR[https://github.com/toto9602/NestJS-Practice/pull/4]
 - `Nest-Commander`로 standAlone 앱 만들어 보기
 
-### Issue #5 -> 진행 중
-- NestJS의 `HttpModule`, `HttpService` 사용해 보기 (RxJS?)
+### Issue #5 -> PR[https://github.com/toto9602/NestJS-Practice/pull/6]
+- NestJS 내장 `HttpModule` 및 `Observable` 사용해보기
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
