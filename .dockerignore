@@ -1,0 +1,11 @@
+.git
+.github
+
+dist
+node_modules
+
+test
+
+test.sqlite3
+
+yarn.lock
