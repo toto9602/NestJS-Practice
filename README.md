@@ -16,7 +16,7 @@
 ### Issue #5 -> PR[https://github.com/toto9602/NestJS-Practice/pull/6]
 - NestJS 내장 `HttpModule` 및 `Observable` 사용해보기
 
-### Issue #7 -> 진행 중
+### Issue #7 -> PR[https://github.com/toto9602/NestJS-Practice/pull/8]
 - Test 환경 수정하기 ( Docker로 서버, DB 올리기 )
 
 <p align="center">
