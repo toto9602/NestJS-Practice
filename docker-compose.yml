@@ -1,0 +1,22 @@
+version: '3'
+
+services:
+  web:
+    container_name: nest-practice
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - '3000:3000'
+    env_file:
+      - src/common/envs/.env
+    command: yarn start:dev
+    depends_on:
+      - mysql
+  mysql:
+    image: mysql:latest
+    ports:
+      - '3306:3306'
+    env_file:
+      - src/common/envs/.env
+    restart: on-failure
