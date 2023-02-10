@@ -4,5 +4,5 @@ export const AppDataSource = new DataSource({
   type: 'sqlite',
   database: 'test.sqlite3',
   synchronize: true,
-  entities: ['src/**/entities/*.entity.ts'],
+  entities: ['dist/**/entities/*.entity.js'],
 });

@@ -1,1 +1,3 @@
 export const DATA_SOURCE_TOKEN = Symbol('DATA_SOURCE_TOKEN');
+
+export const CATS_REPOSITORY_TOKEN = Symbol('CATS_REPOSITORY_TOKEN');

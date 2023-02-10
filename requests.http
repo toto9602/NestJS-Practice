@@ -1,0 +1,9 @@
+### Save a new cat Info
+POST http://localhost:3000/cats
+content-type: application/json
+
+{
+    "name":"May",
+    "age":10,
+    "species":"British ShortHair"
+}
